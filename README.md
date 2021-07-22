@@ -6,7 +6,7 @@ If you want to contact me, please sentd me a mail.
 1. computer science engeering Bachelor - Gangneung-Wonju National University
 2. NLP engeenier - intellius (2020.3 ~)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gayoung)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **xdfc1745/xdfc1745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
