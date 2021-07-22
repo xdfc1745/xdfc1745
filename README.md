@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello 🖐
+I am Gayoung Kim who is interested NLP from South Korea.
+If you want to contact me, please sentd me a mail.
+
+### Experience
+1. computer science engeering Bachelor - Gangneung-Wonju National University
+2. NLP engeenier - intellius (2020.3 ~)
+
 
 <!--
 **xdfc1745/xdfc1745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
